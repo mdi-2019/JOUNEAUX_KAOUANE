@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "0.0.0",
+  "description": "Basic and scientific calculator",
+  "main": "calculatrice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdi-2019/JOUNEAUX_KAOUANE.git"
+  },
+  "author": "JOUNEAUX Gwendal and KAOUANE Besma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdi-2019/JOUNEAUX_KAOUANE/issues"
+  },
+  "homepage": "https://github.com/mdi-2019/JOUNEAUX_KAOUANE#readme"
+}
